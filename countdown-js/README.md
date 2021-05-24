@@ -19,4 +19,4 @@
 
 <br>
 
-Desenvolvido por [Ramon Xavier](github.com/ramonxm) 👓
+inspirado no countdown desenvolvido por [Ramon Xavier](github.com/ramonxm) 👓
